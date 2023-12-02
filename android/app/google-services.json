@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "822614243355",
+    "project_id": "nttu-d42ee",
+    "storage_bucket": "nttu-d42ee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:822614243355:android:4c893e21c564643471e0be",
+        "android_client_info": {
+          "package_name": "com.example.instagram_clone_flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6v8aTs2K45iVFjXqI4WhqYVlnED0cpjQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
